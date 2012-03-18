@@ -3,8 +3,7 @@
  * MyBB 1.6 English Language Pack
  * Copyright 2010 MyBB Group, All Rights Reserved
  * 
- * $Id: english.php 5641 2011-10-26 09:36:44Z Tomm $
- * $Id: vietnamese.php 5641 2012-03-18 12:22:31Z
+ * $Id: vietnamese.php 2012-03-18 12:22:31 narga
  */
 
 // The friendly name of the language

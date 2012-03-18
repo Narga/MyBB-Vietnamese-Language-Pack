@@ -3,7 +3,7 @@
  * MyBB 1.6 English Language Pack
  * Copyright 2010 MyBB Group, All Rights Reserved
  * 
- * $Id: announcements.lang.php 5297 2010-12-28 22:01:14Z Tomm $
+ * $Id: announcements.lang.php Mon Mar 19 00:05:13 ICT 2012 narga
  */
 
 $l['nav_announcements'] = "Thông báo của Diễn đàn";
