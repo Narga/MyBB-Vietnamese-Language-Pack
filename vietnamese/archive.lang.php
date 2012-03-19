@@ -1,9 +1,10 @@
 <?php
 /**
- * MyBB 1.6 English Language Pack
+ * MyBB 1.6 Vietnamese Language Pack
  * Copyright 2010 MyBB Group, All Rights Reserved
  * 
- * $Id: archive.lang.php 5365 2011-02-16 21:59:02Z  $
+ * $Id: archive.lang.php 5365 2011-02-16 21:59:02Z Nguyễn Đình Quân http://www.narga.org/
+ * https://github.com/Narga/MyBB-Vietnamese-Language-Pack/
  */
 $$l['archive_fullversion'] = "Phiên bản đầy đủ:";
 $l['archive_replies'] = "Trả lời";

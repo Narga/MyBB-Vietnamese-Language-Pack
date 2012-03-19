@@ -1,9 +1,10 @@
 <?php
 /**
- * MyBB 1.6 English Language Pack
+ * MyBB 1.6 Vietnamese Language Pack
  * Copyright 2010 MyBB Group, All Rights Reserved
  * 
- * $Id: announcements.lang.php Mon Mar 19 00:05:13 ICT 2012 narga
+ * $Id: announcements.lang.php Mon Mar 19 00:05:13 ICT 2012 Nguyễn Đình Quân http://www.narga.org/
+ * https://github.com/Narga/MyBB-Vietnamese-Language-Pack/
  */
 
 $l['nav_announcements'] = "Thông báo của Diễn đàn";

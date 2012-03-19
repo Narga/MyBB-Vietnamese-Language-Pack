@@ -3,7 +3,8 @@
  * MyBB 1.6 Vietnamese Language Pack
  * Copyright 2010 MyBB Group, All Rights Reserved
  * 
- * $Id: akismet.lang.php 5557  narga Mon Mar 19 00:04:42 ICT 2012 narga
+ * $Id: akismet.lang.php 5557  narga Mon Mar 19 00:04:42 ICT 2012 Nguyễn Đình Quân http://www.narga.org/
+ * https://github.com/Narga/MyBB-Vietnamese-Language-Pack/
  */
 
 $l['spam'] = "Spam";

@@ -1,9 +1,10 @@
 <?php
 /**
- * MyBB 1.6 English Language Pack
+ * MyBB 1.6 Vietnamese Language Pack
  * Copyright 2010 MyBB Group, All Rights Reserved
  * 
- * $Id: vietnamese.php 2012-03-18 12:22:31 narga
+ * $Id: vietnamese.php 2012-03-18 12:22:31 Nguyễn Đình Quân http://www.narga.org/
+ * https://github.com/Narga/MyBB-Vietnamese-Language-Pack/ 
  */
 
 // The friendly name of the language
