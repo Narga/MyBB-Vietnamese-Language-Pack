@@ -1,11 +1,6 @@
-commit 0c147fdb0dd20741095b3d08613e5204cc8ff41c
-Author: Nguyễn Đình Quân <mrnarga@gmail.com>
-Date:   Sun Mar 18 23:43:31 2012 +0700
-
-    translation akismet and language describtion
-
-commit f53a8c8eb2fb37e5da491a86dafbca5a84085270
-Author: Nguyễn Đình Quân <mrnarga@gmail.com>
-Date:   Sun Mar 18 23:40:36 2012 +0700
-
-    first commit
++2012-03-19 10:44:34 +0700 replace default archive.lang.php file | Nguyễn Đình Quân >> 7f7f4a6
++2012-03-19 10:30:54 +0700 archive.lang.php translated, update some comments | Nguyễn Đình Quân >> 2c99f30
++2012-03-19 00:07:38 +0700 Update translated time | Nguyễn Đình Quân >> 20f7fe9
++2012-03-19 00:07:23 +0700 Update translated time | Nguyễn Đình Quân >> f675440
++2012-03-18 23:43:31 +0700 translation akismet and language describtion | Nguyễn Đình Quân >> 0c147fd
++2012-03-18 23:40:36 +0700 first commit | Nguyễn Đình Quân >> f53a8c8
