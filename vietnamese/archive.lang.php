@@ -1,9 +1,9 @@
 <?php
 /**
- * MyBB 1.6 Vietnamese Language Pack
+ * MyBB 1.6 English Language Pack
  * Copyright 2010 MyBB Group, All Rights Reserved
  * 
- * $Id: archive.lang.php Mon 19 Mar 2012 10:28:26 AM ICT narga 
+ * $Id: archive.lang.php 5365 2011-02-16 21:59:02Z MattR $
  */
 
 $l['archive_fullversion'] = "Full Version:";
